@@ -288,7 +288,8 @@ int main(int argc, char **argv)
 
 
 ## OUTPUT:
-<img width="670" height="247" alt="Screenshot 2026-11-04 091258" src="https://github.com/user-attachments/assets/48d4deed-71bd-43dd-a5af-28bae118048c" />
+<img width="1147" height="377" alt="image" src="https://github.com/user-attachments/assets/597a54d7-0719-4f47-b6c6-d64f0fd69787" />
+
 
 
 ## RESULT:
